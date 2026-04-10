@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21+-blue.svg)
 
-Este repositório apresenta um curso completo em formato de Jupyter Notebook sobre os fundamentos de Python aplicados à Ciência de Dados, com ênfase especial na biblioteca **NumPy** (Numerical Python). O material guia o usuário desde os conceitos básicos da linguagem até a manipulação avançada de arrays multidimensionais, que são a base para computação científica e análise de dados em Python.
+Este repositório apresenta um portfólio de Python aplicados à Ciência de Dados, com ênfase especial na biblioteca **NumPy** (Numerical Python). O material guia o usuário desde os conceitos básicos da linguagem até a manipulação avançada de arrays multidimensionais, que são a base para computação científica e análise de dados em Python.
 
 ## 📖 Tabela de Conteúdos
 
