@@ -50,7 +50,7 @@ Este repositório apresenta um curso completo em formato de Jupyter Notebook sob
 
 As seções iniciais constroem uma base sólida em Python, cobrindo desde a sintaxe e tipos de dados até estruturas de controle como laços e condicionais. Estes são pré-requisitos essenciais para qualquer pessoa que queira trabalhar com Data Science.
 
-### 5. NumPy Básico
+### 5. NumPy
 
 Esta é a seção principal do notebook, onde você mergulhará no poder da computação numérica com NumPy. Os principais aprendizados incluem:
 
